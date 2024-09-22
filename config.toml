@@ -48,7 +48,6 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.ap
 
 [TikTok]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
-included-patches = "'SIM spoof'"
 
 [Reddit-Extended]
 patches-source = "inotia00/revanced-patches"
